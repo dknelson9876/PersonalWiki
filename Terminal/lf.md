@@ -1,5 +1,13 @@
 # `lf`: Terminal File Manager
 
+[Github Repo](https://github.com/gokcehan/lf)
+
+Windows: 
+> `choco install lf`
+
+Linux:
+> `curl -L https://github.com/gokcehan/lf/releases/latest/download/lf-linux-amd64.tar.gz | tar xzC ~/.local/bin`
+
 ## Keyboard Shortcuts
 
 |               Action                |                            Key                             |
